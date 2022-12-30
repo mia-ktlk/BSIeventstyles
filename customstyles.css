@@ -1,7 +1,33 @@
-nav.Tabs_Tabs_Controller--2BwNN.align--left.Tabs_Tabs_flush--34QxE.container {
-    visibility: hidden !important;
+.📚16-2-1CNuZQ {
+    --color-background: var(--maker-color-neutral-10,#f1f1f1);
+    --color-border: transparent
 }
 
-button.w-button.📚16-2-1vQBWk.📚16-2-1wcHKQ.📚16-2-1S6z9M.📚16-2-1_N8aS.w-button--button.w-button--primary.w-button--large.w-button--full-width-mobile.w-button--truncate-text {
-    color: blue !important;
+.📚16-2-1_2TXJ {
+    --color-background: var(--maker-color-background,#fff);
+    --color-border: var(--maker-color-neutral-20,#d3d3d3)
+}
+
+.📚16-2-1swXoB {
+    fill: currentColor;
+    align-items: center;
+    background-color: transparent;
+    background-color: initial;
+    border-radius: inherit;
+    box-sizing: inherit;
+    color: var(--color-placeholder);
+    cursor: inherit;
+    display: flex;
+    font-size: inherit;
+    z-index: 1
+}
+
+.📚16-2-1swXoB.📚16-2-1qI9Qu {
+    order: 1;
+    padding-right: 8px
+}
+
+.📚16-2-1swXoB.📚16-2-1Du2TA {
+    order: 3;
+    padding-left: 8px
 }
